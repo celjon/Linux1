@@ -16,8 +16,8 @@
 
 Для автоматизации процесса создам 3 скрипта при помощи команды 'touch' для каждой виртуально машины:
 # scriptА.sh:
-![image](https://github.com/celjon/linux1/assets/134550766/7ddeb930-9b30-4937-849c-75e54ee2501f)
+![image](https://github.com/celjon/linux1/assets/134550766/64fc7691-0e68-4603-a504-2665301e1270)
 # scriptB.sh
-![image](https://github.com/celjon/linux1/assets/134550766/3e8b6213-57fe-463a-b18c-aa026832fe79)
+![image](https://github.com/celjon/linux1/assets/134550766/fc1b5116-1712-4d8c-a5ab-555ce476cd69)
 # scriptC.sh:
-![image](https://github.com/celjon/linux1/assets/134550766/dae56fe3-69b6-479e-a25d-f06b0e7cc6a6)
+![image](https://github.com/celjon/linux1/assets/134550766/875e638c-0672-4c08-b27e-71eaab4a1628)
