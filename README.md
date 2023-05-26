@@ -8,7 +8,13 @@
 ![image](https://github.com/celjon/linux1/assets/134550766/434b2401-b785-428b-ae02-28b1b0ed75ed)
 Создаем файл app.py и запускаем его:
 ![image](https://github.com/celjon/linux1/assets/134550766/92031f97-3e92-413e-abbc-a6052f64d473)
-Для автоматизации процесса создам 3 скрипта для каждой виртуально машины:
+# Проверка
+для проверки отправляем запрос от веб-клиента к веб-серверу:
+![image](https://github.com/celjon/linux1/assets/134550766/2cd694bd-d21e-4496-a8e2-c5907b8a5d93)
+Как видим на вм А запрос дошел:
+![image](https://github.com/celjon/linux1/assets/134550766/ed132978-1196-41e5-bb02-7dfe290bd5f1)
+
+Для автоматизации процесса создам 3 скрипта при помощи команды 'touch' для каждой виртуально машины:
 # scriptА.sh:
 ![image](https://github.com/celjon/linux1/assets/134550766/7ddeb930-9b30-4937-849c-75e54ee2501f)
 # scriptB.sh
